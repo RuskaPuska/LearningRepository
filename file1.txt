@@ -1,4 +1,4 @@
 Kotenok
 12345
-Goodbye!
+Line from user1
 Line from user2
