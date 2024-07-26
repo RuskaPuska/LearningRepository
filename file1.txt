@@ -1,4 +1,5 @@
 Kotenok
 12345
-Line from user1
+<<<<<<< HEAD
 Line from user2
+Line from user1
